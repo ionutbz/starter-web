@@ -15,3 +15,6 @@ as stated above the main propuse is a Sample website with plenty of files for de
 this is a simple web project, deployment can be on any web server or local file system
 
 ## How to contribuite
+
+### Copyright
+2014 Git.Training
